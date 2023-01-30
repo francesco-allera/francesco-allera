@@ -10,3 +10,5 @@
 <h2>
   Passionate Full Stack Web Developer addicted to clean code.
 </h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
