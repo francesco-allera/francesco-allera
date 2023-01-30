@@ -12,8 +12,8 @@
 </h2>
 
 <p align="center">
-  <img width="49%" align="top" src="https://github-readme-stats.vercel.app/api?username=francesco-allera&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Francesco's GitHub Stats" />
-  <img width="49%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francesco-allera&layout=compact&theme=radical&hide_border=true" />
+  <img style="width:49%; min-width: 300px;" src="https://github-readme-stats.vercel.app/api?username=francesco-allera&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Francesco's GitHub Stats" />
+  <img style="width:49%; min-width: 300px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francesco-allera&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 
