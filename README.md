@@ -11,4 +11,6 @@
   Passionate Full Stack Web Developer addicted to clean code.
 </h2>
 
+![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=francesco-allera&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francesco-allera&layout=compact)](https://github.com/francesco-allera/github-readme-stats)
