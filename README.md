@@ -11,11 +11,16 @@
   Passionate Full Stack Web Developer addicted to clean code.
 </h2>
 
+<!--
 <p align="center" vertical-align="text-top">
   <img width="49%" height="100%" src="https://github-readme-stats.vercel.app/api?username=francesco-allera&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Francesco's GitHub Stats" />
   <img width="49%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francesco-allera&layout=compact&theme=radical&hide_border=true" />
 </p>
+-->
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=francesco-allera)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=francesco-allera)  
 
 <!--
 ![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=francesco-allera&show_icons=true&theme=radical)
