@@ -3,7 +3,7 @@
 </h1>
 
 <h2>
-  Passionate Full Stack Web Developer addicted to clean code.
+  I'm a passionate Full Stack Web Developer addicted to clean code.
 </h2>
 
 <h3>
