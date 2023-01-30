@@ -21,6 +21,12 @@
 </p>
 -->
 
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=francesco-allera&theme=radical&row=2&column=3" />
+</p>
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=francesco-allera&theme=radical&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
