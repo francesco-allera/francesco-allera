@@ -22,11 +22,11 @@
 -->
 
 <p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=francesco-allera&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=francesco-allera&theme=radical&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 <p align="center">
-  ![GitHub streak stats](https://streak-stats.demolab.com/?user=francesco-allera)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=francesco-allera)  
 </p>
 
 <!--
