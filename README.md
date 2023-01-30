@@ -21,9 +21,13 @@
 </p>
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=francesco-allera&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=francesco-allera&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=francesco-allera)  
+<p align="center">
+  ![GitHub streak stats](https://streak-stats.demolab.com/?user=francesco-allera)  
+</p>
 
 <!--
 ![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=francesco-allera&show_icons=true&theme=radical)
