@@ -24,6 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60" height="60"/>
 </p>
 
+<hr>
+
 <p align="center">
   <img height="200" width="49%" src="https://github-readme-stats.vercel.app/api?username=francesco-allera&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" />
   <img height="200" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francesco-allera&layout=compact&theme=radical&hide_border=true" />
