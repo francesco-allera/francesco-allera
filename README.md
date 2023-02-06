@@ -1,5 +1,5 @@
 <h1>
-  Hey there :wave:, I'm Francesco!
+  Hey there, I'm Francesco!
 </h1>
 
 <h2>
